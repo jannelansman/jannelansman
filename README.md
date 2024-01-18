@@ -1,4 +1,4 @@
-Just testing how the commenting here works. It's a markdown file, so obviously the same way as in html files.
+Keeping things private for now.
 
 <!---
 wizardofouch/wizardofouch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
