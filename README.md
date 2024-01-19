@@ -1,4 +1,4 @@
-Keeping things private for now.
+Keeping things more or less private - for now.
 
 <!---
 wizardofouch/wizardofouch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
