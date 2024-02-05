@@ -31,6 +31,8 @@
 
 _Just testing here to see how markdown gets rendered..._  
 
+---
+
 #### Features to test
 
 - [x] Headers
