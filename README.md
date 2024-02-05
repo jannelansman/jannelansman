@@ -48,13 +48,13 @@ _Just testing here to see how markdown gets rendered..._
 
 The center of the universe [GitHub](https://github.com/).
 
-### Equations
+### Equations, subscripts and superscripts
 
 $$
 \hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) \ e^{-2\pi i x \xi} \ dx
 $$
 
-### Greek letters
+### Tables and Greek letters
 
 | 1-5                  | 6-10             | 11-15                | 16-20                | 21-24            |
 | -------------------- | -----------------| -------------------- | -------------------- | ---------------- |
