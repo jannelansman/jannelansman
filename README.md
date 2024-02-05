@@ -63,8 +63,3 @@ $$
 | &Gamma;, &gamma;     | &Theta;, &theta; | &Nu;, &nu;           | &Sigma;, &sigma;     | &Psi;, &psi;     |
 | &Delta;, &delta;     | &Iota;, &iota;   | &Xi;, &xi;           | &Tau;, &tau;         | &Omega;, &omega; |
 | &Epsilon;, &epsilon; | &Kappa;, &kappa; | &Omicron;, &omicron; | &Upsilon;, &upsilon; |                  |
-
-<!---
-jannelansman/jannelansman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
