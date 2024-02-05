@@ -1,5 +1,9 @@
 ### About me
 
+#### Natural languages:
+* Finnish
+* English
+
 #### OSes:
 * Linux
 * Windows
