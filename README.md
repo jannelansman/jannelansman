@@ -20,7 +20,7 @@
 
 ---
 
-_Just testing here to see if how markdown gets rendered..._  
+_Just testing here to see how markdown gets rendered..._  
 
 ### Features to test
 
