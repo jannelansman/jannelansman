@@ -24,7 +24,7 @@ _Just testing here to see if how extensively markdown actually gets rendered..._
 
 ### Features to test
 
-- [ ] Headers
+- [x] Headers
 - [x] Line breaks
 - [x] Task lists
 - [x] Horizontal lines
