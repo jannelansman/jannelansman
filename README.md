@@ -25,7 +25,6 @@
 #### Other interests
 * Physics
 * AI
-* Transhumanism
 * Random sports
 
 ---
