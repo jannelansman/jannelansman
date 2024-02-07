@@ -1,15 +1,15 @@
 ### About me
 
-#### Natural languages:
+#### Natural languages
 * Finnish
 * English
 
-#### OSes:
+#### OSes
 * Linux
 * Windows
 * Android
 
-#### Programming languages:
+#### Programming languages
 * Python
 * C
 * JavaScript
@@ -17,60 +17,19 @@
 * C++
 * Kotlin
 
-#### Tinkering:
+#### Tinkering
 * Arduino
 * Raspberry Pi
 * 3D printing
 
-#### Other interests:
-* Science
+#### Other interests
+* Physics
 * AI
+* Transhumanism
 * Random sports
 
 ---
 
-_Just testing here to see how markdown gets rendered..._  
+_The public profile is new. Currently in process of cleaning up some projects to be published here._
 
 ---
-
-#### Features to test
-
-- [x] Headers
-- [x] Line breaks
-- [x] Task lists
-- [x] Horizontal lines
-- [x] Emphasis
-- [x] Bullet point lists
-- [ ] Enumerated lists
-- [ ] Images
-- [x] Links
-- [ ] Blockquotes
-- [x] Tables
-- [ ] Block of code
-- [ ] Inline code
-- [x] Equations
-- [ ] Inline equations
-- [x] Subscripts and superscripts
-- [x] Greek letters
-- [ ] Matrices
-- [ ] Inline matrices
-
-#### Links
-
-The center of the universe [GitHub](https://github.com/).
-
-#### Equations, subscripts and superscripts
-
-$$
-\hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) \ e^{-2\pi i x \xi} \ dx
-$$
-
-#### Tables and Greek letters
-
-| 1-5                  | 6-10             | 11-15                | 16-20                | 21-24            |
-| -------------------- | -----------------| -------------------- | -------------------- | ---------------- |
-| &Alpha;, &alpha;     | &Zeta;, &zeta;   | &Lambda;, &lambda;   | &Pi;, &pi;           | &Phi;, &phi;     |
-| &Beta;, &beta;       | &Eta;, &eta;     | &Mu;, &mu;           | &Rho;, &rho;         | &Chi;, &chi;     |
-| &Gamma;, &gamma;     | &Theta;, &theta; | &Nu;, &nu;           | &Sigma;, &sigma;     | &Psi;, &psi;     |
-| &Delta;, &delta;     | &Iota;, &iota;   | &Xi;, &xi;           | &Tau;, &tau;         | &Omega;, &omega; |
-| &Epsilon;, &epsilon; | &Kappa;, &kappa; | &Omicron;, &omicron; | &Upsilon;, &upsilon; |                  |
