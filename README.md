@@ -29,6 +29,6 @@
 
 ---
 
-_In process of cleaning up more projects to be published here._
+_In process of cleaning up more projects to publish._
 
 ---
