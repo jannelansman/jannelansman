@@ -26,9 +26,3 @@
 * Physics
 * AI
 * Random sports
-
----
-
-_In process of cleaning up more projects to publish._
-
----
